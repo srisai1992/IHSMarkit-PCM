@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-10-23T12:58:58 BST" name="Suite" finished-at="2020-10-23T12:59:06 BST" duration-ms="8201">
+    <groups>
+    </groups>
+    <test started-at="2020-10-23T12:58:58 BST" name="Test" finished-at="2020-10-23T12:59:06 BST" duration-ms="8201">
+      <class name="pq1.Tests">
+        <test-method is-config="true" signature="initConfiguration()[pri:0, instance:pq1.Tests@482bce4f]" started-at="2020-10-23T12:58:58 BST" name="initConfiguration" finished-at="2020-10-23T12:59:04 BST" duration-ms="6107" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initConfiguration -->
+        <test-method signature="verifyClickRunBtn()[pri:1, instance:pq1.Tests@482bce4f]" started-at="2020-10-23T12:59:04 BST" name="verifyClickRunBtn" finished-at="2020-10-23T12:59:04 BST" duration-ms="157" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyClickRunBtn -->
+        <test-method signature="verifyClickSaveBtn()[pri:2, instance:pq1.Tests@482bce4f]" started-at="2020-10-23T12:59:04 BST" name="verifyClickSaveBtn" finished-at="2020-10-23T12:59:06 BST" duration-ms="1199" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyClickSaveBtn -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:pq1.Tests@482bce4f]" started-at="2020-10-23T12:59:06 BST" name="tearDown" finished-at="2020-10-23T12:59:06 BST" duration-ms="708" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- pq1.Tests -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
